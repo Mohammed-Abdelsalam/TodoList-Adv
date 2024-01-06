@@ -1,6 +1,9 @@
 # To-Do List App (Advanced)
+<img width="1280" alt="Todo Task" src="https://github.com/Mohammed-Abdelsalam/TodoList-Adv/assets/78054863/768bad6f-d273-437a-b01c-c8cd4955622e">
 
 To-Do List App (Advanced) is a comprehensive task management application that allows you to perform CRUD (Create, Read, Update, Delete) operations on tasks. The app features sorting for all tasks, distinguishing between completed and ongoing ones. Additionally, it includes a filtering option to display only completed or ongoing tasks.
+
+## live link from here : https://todo-list-adv.vercel.app/
 
 ## Features
 
@@ -12,6 +15,8 @@ To-Do List App (Advanced) is a comprehensive task management application that al
 - **Task Completion Indicator:** Completed tasks are visually distinguished for easy identification.
 - **Form Validation:** Ensure accurate task entry with validation and user prompts.
 - **Local Storage:** All tasks are stored in local storage to prevent data loss.
+- **Responsive Design:** The website is fully responsive for a seamless experience across devices.
+- **Error Page:** : A custom error page (404 - Not Found) for a user-friendly experience.
 
 ## Technologies Used
 
