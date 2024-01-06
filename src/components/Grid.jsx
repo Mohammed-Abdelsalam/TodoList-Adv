@@ -92,7 +92,7 @@ const Grid = () => {
           btnName={"Add New Task"}
         />
       </div>
-      <div className="m-3 p-2 overflow-hidden grid grid-cols-2 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-2 xl:grid-cols-2 gap-4 md:p-15">
+      <div className="m-3 p-2 overflow-hidden grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-2 xl:grid-cols-2 gap-4 md:p-15">
         {[...todos]
           .filter((item) =>
             item.todoName.toLowerCase().includes(searchValue.toLowerCase())
